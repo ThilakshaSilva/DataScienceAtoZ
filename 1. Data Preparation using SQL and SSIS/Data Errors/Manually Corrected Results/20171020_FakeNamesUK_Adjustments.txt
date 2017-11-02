@@ -1,0 +1,20 @@
+*Change the following to the FakeNames.txt file in the Prepared Data before the Bulletproof Blueprint*
+
+Change the title
+Number,Gender,Title,Name,Name,Address,ZipCode,EmailAddress,Username,Password,Birthday,CCType,CCNumber,CVV2,CCExpires,BloodType,Kilograms,Centimeters
+Number,Gender,Title,FirstName,LastName,Address,ZipCode,EmailAddress,Username,Password,Birthday,CCType,CCNumber,CVV2,CCExpires,BloodType,Kilograms,Centimeters
+
+Adjusted row 70
+70,male,Mr.,Hui,Yuan,"61 Ermin Street, WYKEHAM, UK ,YO17 9YT,HuiYuan@teleworm.us,Drues1947,FuiN0quah,11/17/1947,MasterCard,5126644024838933,223,6/2019,O+,119,177
+70,male,Mr.,Hui,Yuan,"61 Ermin Street, WYKEHAM, UK ",YO17 9YT,HuiYuan@teleworm.us,Drues1947,FuiN0quah,11/17/1947,MasterCard,5126644024838933,223,6/2019,O+,119,177
+
+Adjusted row 32968
+32968,male,Mr.,Jack,Humphreys,"14 Crown Street, LONDON, UK ",SW1P 4BQ,Jack,Humphreys@armyspy.com,Weread76,oyoxohRe7l,1/8/1976,Visa,4556391714869081,986,6/2018,A-,81.7,187
+32968,male,Mr.,Jack,Humphreys,"14 Crown Street, LONDON, UK ",SW1P 4BQ,Jack.Humphreys@armyspy.com,Weread76,oyoxohRe7l,1/8/1976,Visa,4556391714869081,986,6/2018,A-,81.7,187
+
+Adjusted row 76928
+76928,male,Mr.,Ethan,Gould,73 Thornton St, HUNTINGFORD, UK ",SP8 7BZ,EthanGould@gustr.com,Faid1946,eiM6quaeT4,8/3/1946,MasterCard,5319282120541510,678,1/2017,A+,108.5,184
+76928,male,Mr.,Ethan,Gould,"73 Thornton St, HUNTINGFORD, UK ",SP8 7BZ,EthanGould@gustr.com,Faid1946,eiM6quaeT4,8/3/1946,MasterCard,5319282120541510,678,1/2017,A+,108.5,184
+
+
+
