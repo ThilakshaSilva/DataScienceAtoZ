@@ -1,4 +1,5 @@
-# UdemyCourse-DataScienceAtoZ
+# Data Science A-Z - Real-Life Data Science Exercises Included
+
 This course gave me a full overview of the Data Science journey. Upon completing this course I know:
 
     How to clean and prepare my data for analysis
