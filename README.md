@@ -8,7 +8,7 @@ I gained a full overview of the Data Science journey. Now I know:
     How to curve-fit my data
     And finally, how to present my findings and wow the audience
 
-I practiced so much exercises that real world seems like a piece of cake to me. The homework exercises that are so thought provoking and challenging that I wanted to cry... But I didn't give up! I crushed them. I developed a good understanding of the following tools:
+I practiced so much exercises that are so thought provoking and challenging that I wanted to cry... But I didn't give up! I crushed them. I developed a good understanding of the following tools:
 
     SQL
     SSIS
