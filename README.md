@@ -10,7 +10,7 @@ I gained a full overview of the Data Science journey. Now I know:
 
 I practiced so much exercises that are so thought provoking and challenging that I wanted to cry... But I didn't give up! I crushed them. I developed a good understanding of the following tools:
 
-    SQL
-    SSIS
+    SQL using Microsoft SQL Server Management Studio
+    Microsoft Power BI tool SSIS
     Tableau
-    Gretl
+    
