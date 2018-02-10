@@ -13,4 +13,5 @@ I practiced so much exercises that are so thought provoking and challenging that
     SQL using Microsoft SQL Server Management Studio
     Microsoft Power BI tool SSIS
     Tableau
-    
+
+I have created interactive Tableau dashboards and storylines. View my stunning Tableau creations on Tableau Public Profile https://public.tableau.com/profile/thilakshasilva.
